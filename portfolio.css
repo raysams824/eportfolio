@@ -1,0 +1,12 @@
+.ul {list-style-type:none;margin:-10;padding:0;overflow:hidden;background-color:#333333;}
+.active {float:left;border-right:1px solid #bbb;display: block;color:white;padding:25px;font-size:30px;text-decoration:none;}
+p {color:white;}
+.h1 {color:white;margin:100px;text-align:justify;}
+.active:hover {background-color: #111111;}
+.head {text-align:center;font-size:40px;}
+.content {text-align:justify;font-size:30px;margin:100px;}
+body {background-image:url(portfoliobg.png); background-attachment:fixed; background-repeat:no-repeat; background-size:100% 100%;}
+ol {text-align:justify;font-size:30px;margin:100px;color:white;}
+.img {float:right;}
+.lesson {color:white;text-align:center;}
+.imgp {text-align:center;} 
